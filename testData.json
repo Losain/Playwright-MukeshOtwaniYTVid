@@ -1,0 +1,13 @@
+{
+    "username": "mekesh@gmail.com",
+    "password": "admin@123",
+    "name":"Mukesh",
+    "interest": ["PWS", "SS", "AWS"],
+    "gender": "male",
+    "state": "euphoria",
+    "address":{
+        "area":"hsr",
+        "city": "Banglore",
+        "pincode": 556699
+    }
+}
